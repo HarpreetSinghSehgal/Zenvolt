@@ -3296,7 +3296,9 @@ function simulateAIResponse(userMsg) {
   }, 900 + Math.random() * 400);
 }
 
-let brandVideoUrl = localStorage.getItem('zv_brand_video_url') || 'Create_a_second_cinematic_b.mp4';
+localStorage.removeItem('zv_brand_video_url');
+
+let brandVideoUrl = localStorage.getItem('zv_brand_video_url') || 'https://res.cloudinary.com/do6npdxff/video/upload/v1781013767/Create_a_second_cinematic_b_xwkprl.mp4';
 
 function playBrandVideo() {
   const overlay = document.getElementById('brand-video-overlay');
