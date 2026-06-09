@@ -1,0 +1,334 @@
+[
+  {
+    "id": "voice",
+    "name": "ZenVolt Voice Assistant",
+    "cat": "smart-home",
+    "icon": "🎙️",
+    "bg": "#1a0d1a",
+    "price": 12999,
+    "rating": 4.9,
+    "badge": null,
+    "stock": 84,
+    "status": "active",
+    "desc": "AI-powered voice assistant and smart-home controller. Context-aware, controls your entire ecosystem.",
+    "specs": [
+      [
+        "Voice AI",
+        "GPT-4 Powered"
+      ],
+      [
+        "Response",
+        "< 0.3s"
+      ],
+      [
+        "Range",
+        "15m radius"
+      ],
+      [
+        "Connectivity",
+        "Wi-Fi 6 + BT 5.3"
+      ]
+    ],
+    "images": [
+      "/media/1781009931957-2ec13dc634-file_00000000a04071f798a5ecb0693c14d6-1-1-.png",
+      "/media/1781009987139-791594d55e-file_00000000a04071f798a5ecb0693c14d6-2-.png",
+      "/media/1781009993916-1952ed1054-file_00000000a04071f798a5ecb0693c14d6.png",
+      "/media/1781011024388-32da812e0a-WhatsApp-Video-2026-06-09-at-18-39-45.mp4"
+    ]
+  },
+  {
+    "id": "door",
+    "name": "ZenVolt Smart Door Handle",
+    "cat": "smart-home",
+    "icon": "🚪",
+    "bg": "#0d1a1a",
+    "price": 24999,
+    "rating": 4.8,
+    "badge": null,
+    "stock": 42,
+    "status": "active",
+    "desc": "Biometric fingerprint and facial-recognition door handle with remote access and entry log.",
+    "specs": [
+      [
+        "Auth",
+        "Fingerprint + Face ID"
+      ],
+      [
+        "Storage",
+        "200 fingerprints"
+      ],
+      [
+        "Battery",
+        "18-month standby"
+      ],
+      [
+        "App",
+        "iOS & Android"
+      ]
+    ],
+    "images": [
+      "/media/1781010110347-5cbceb00bf-file_000000002a7c71f7a46e1eca46ccb27c-1-.png",
+      "/media/1781010116747-37dc870817-file_000000002a7c71f7a46e1eca46ccb27c-2-.png",
+      "/media/1781010121181-298623bcd4-file_000000002a7c71f7a46e1eca46ccb27c.png",
+      "/media/1781011072216-f279806bc1-WhatsApp-Video-2026-06-09-at-18-39-45-1-.mp4"
+    ]
+  },
+  {
+    "id": "pureair",
+    "name": "ZenVolt PureAir",
+    "cat": "air-care",
+    "icon": "💨",
+    "bg": "#0d1a14",
+    "price": 18999,
+    "rating": 4.9,
+    "badge": null,
+    "stock": 61,
+    "status": "active",
+    "desc": "AI-powered smart air purifier with real-time PM2.5, VOC and CO₂ monitoring.",
+    "specs": [
+      [
+        "CADR",
+        "450 m³/hr"
+      ],
+      [
+        "Room Size",
+        "Up to 60 m²"
+      ],
+      [
+        "Filtration",
+        "H13 HEPA + Carbon"
+      ],
+      [
+        "Sensors",
+        "PM2.5, VOC, CO₂"
+      ]
+    ],
+    "images": [
+      "/media/1781010144967-77e698f7be-file_00000000b6c471f5beb334d55d3253a4-1-.png",
+      "/media/1781010150987-54cf076113-file_00000000b6c471f5beb334d55d3253a4-2-.png",
+      "/media/1781010155583-e7c97d4f62-file_00000000b6c471f5beb334d55d3253a4-3-.png",
+      "/media/1781011112842-28cea34d44-WhatsApp-Video-2026-06-09-at-18-39-45-2-.mp4"
+    ]
+  },
+  {
+    "id": "autobot",
+    "name": "ZenVolt AutoBot",
+    "cat": "automation",
+    "icon": "🤖",
+    "bg": "#0a0a1a",
+    "price": 32999,
+    "rating": 4.7,
+    "badge": null,
+    "stock": 29,
+    "status": "active",
+    "desc": "Self-cleaning robotic floor system with 3D LiDAR room mapping and auto-empty base.",
+    "specs": [
+      [
+        "Suction",
+        "4200 Pa"
+      ],
+      [
+        "Mapping",
+        "3D LiDAR SLAM"
+      ],
+      [
+        "Battery",
+        "180 min runtime"
+      ],
+      [
+        "Auto Empty",
+        "45-day capacity"
+      ]
+    ],
+    "images": [
+      "/media/1781010189574-c4ae198465-file_000000003fd471f7a5f0684f09e32b0c-1-.png",
+      "/media/1781010194180-4a6f19d657-file_000000003fd471f7a5f0684f09e32b0c-2-.png",
+      "/media/1781010197536-93c7f843a8-file_000000003fd471f7a5f0684f09e32b0c-3-.png",
+      "/media/1781011154056-a681bc68e3-WhatsApp-Video-2026-06-09-at-18-39-45-3-.mp4"
+    ]
+  },
+  {
+    "id": "clock",
+    "name": "ZenVolt AI Clock",
+    "cat": "workspace",
+    "icon": "⏰",
+    "bg": "#1a1a0d",
+    "price": 9999,
+    "rating": 4.8,
+    "badge": null,
+    "stock": 115,
+    "status": "active",
+    "desc": "Smart clock displaying schedules, reminders, weather, and productivity insights.",
+    "specs": [
+      [
+        "Display",
+        "4K AMOLED"
+      ],
+      [
+        "AI",
+        "Daily briefing"
+      ],
+      [
+        "Integration",
+        "Google, Apple, Notion"
+      ],
+      [
+        "Voice",
+        "Hands-free"
+      ]
+    ],
+    "images": [
+      "/media/1781010217884-c899f390b6-file_000000003fd471f7a5f0684f09e32b0c-4-.png",
+      "/media/1781010222610-15d51befb3-file_000000003fd471f7a5f0684f09e32b0c-5-.png",
+      "/media/1781010232397-10bd205f84-file_000000003fd471f7a5f0684f09e32b0c.png",
+      "/media/1781011191727-8ced27e483-WhatsApp-Video-2026-06-09-at-18-39-45-4-.mp4"
+    ]
+  },
+  {
+    "id": "chargepad",
+    "name": "ZenVolt ChargePad",
+    "cat": "workspace",
+    "icon": "⚡",
+    "bg": "#1a0d0d",
+    "price": 7999,
+    "rating": 4.7,
+    "badge": null,
+    "stock": 97,
+    "status": "active",
+    "desc": "Premium multi-device wireless charging station with intelligent power distribution.",
+    "specs": [
+      [
+        "Output",
+        "3× 15W + 1× 5W"
+      ],
+      [
+        "Devices",
+        "4 simultaneous"
+      ],
+      [
+        "Cooling",
+        "Active fan cooling"
+      ],
+      [
+        "Compat",
+        "Qi2 + MagSafe"
+      ]
+    ],
+    "images": [
+      "/media/1781010265916-492c999085-file_00000000944071f789402eb2cba19b8b-2-.png",
+      "/media/1781010273083-7616bdb628-file_00000000944071f789402eb2cba19b8b-1-.png",
+      "/media/1781010279158-1e31baee36-file_00000000944071f789402eb2cba19b8b-3-.png",
+      "/media/1781011241562-99a21c4e5e-WhatsApp-Video-2026-06-09-at-18-39-45-6-.mp4"
+    ]
+  },
+  {
+    "id": "lamp",
+    "name": "ZenVolt Adaptive Lamp",
+    "cat": "lighting",
+    "icon": "💡",
+    "bg": "#1a1508",
+    "price": 14999,
+    "rating": 4.9,
+    "badge": null,
+    "stock": 53,
+    "status": "active",
+    "desc": "Auto-adjusts brightness and color temperature based on room conditions and circadian rhythm.",
+    "specs": [
+      [
+        "Color Temp",
+        "2700K–6500K"
+      ],
+      [
+        "Brightness",
+        "0–2000 lm"
+      ],
+      [
+        "Sensors",
+        "Ambient + motion"
+      ],
+      [
+        "Modes",
+        "Focus, Relax, Sleep"
+      ]
+    ],
+    "images": [
+      "/media/1781010319514-e9655fa7f6-file_00000000944071f789402eb2cba19b8b.png",
+      "/media/1781010329269-122f6f97cc-file_00000000944071f789402eb2cba19b8b-4-.png",
+      "/media/1781010334195-1aafad94d7-file_00000000944071f789402eb2cba19b8b-5-.png",
+      "/media/1781011257153-3f2ea6496e-WhatsApp-Video-2026-06-09-at-18-39-45-5-.mp4"
+    ]
+  },
+  {
+    "id": "aroma",
+    "name": "ZenVolt AromaSync",
+    "cat": "air-care",
+    "icon": "🌸",
+    "bg": "#1a0d1a",
+    "price": 11999,
+    "rating": 4.6,
+    "badge": null,
+    "stock": 78,
+    "status": "active",
+    "desc": "Smart room freshener synced with PureAir for synchronized air purification and fragrance.",
+    "specs": [
+      [
+        "Cartridges",
+        "6 fragrance slots"
+      ],
+      [
+        "Sync",
+        "ZenVolt PureAir"
+      ],
+      [
+        "Range",
+        "Up to 40 m²"
+      ],
+      [
+        "Schedule",
+        "AI-timed"
+      ]
+    ],
+    "images": [
+      "/media/1781010708649-3bd9f18ee1-WhatsApp-Image-2026-06-09-at-18-39-45-1-.jpeg",
+      "/media/1781010764377-ad80abfb34-WhatsApp-Image-2026-06-09-at-18-39-45-2-.jpeg",
+      "/media/1781011354426-dc06b873f8-WhatsApp-Video-2026-06-09-at-18-39-44.mp4"
+    ]
+  },
+  {
+    "id": "smartdesk",
+    "name": "ZenVolt SmartDesk",
+    "cat": "workspace",
+    "icon": "🖥️",
+    "bg": "#0d0d1a",
+    "price": 249999,
+    "rating": 5,
+    "badge": null,
+    "stock": 18,
+    "status": "active",
+    "desc": "The apex of intelligent workspaces. Integrated mug heating, cooling fridge, air ionizer, wireless charging, productivity AI and ambient lighting.",
+    "specs": [
+      [
+        "Surface",
+        "Mineral stone composite"
+      ],
+      [
+        "Charging",
+        "45W wireless × 3"
+      ],
+      [
+        "Mug Temp",
+        "55°C ±0.5°C"
+      ],
+      [
+        "AI",
+        "Focus & posture tracking"
+      ]
+    ],
+    "images": [
+      "/media/1781010782030-f203729732-WhatsApp-Image-2026-06-09-at-18-39-45.jpeg",
+      "/media/1781010814122-6dd2cef5c1-WhatsApp-Image-2026-06-09-at-18-39-45-4-.jpeg",
+      "/media/1781010819704-6c4ecd1f19-WhatsApp-Image-2026-06-09-at-18-39-45-3-.jpeg",
+      "/media/1781011363451-61d66a4c84-WhatsApp-Video-2026-06-09-at-18-39-45-7-.mp4"
+    ]
+  }
+]
